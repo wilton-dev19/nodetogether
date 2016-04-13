@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wilton-dev19/nodetogether/issues"
   },
-  "homepage": "https://github.com/wilton-dev19/nodetogether#readme"
+  "homepage": "https://github.com/wilton-dev19/nodetogether#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
